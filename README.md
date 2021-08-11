@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Corgomofilo
+- 👀 I’m interested in Coding, Sports, Cinema, Videogames... (a lot of things to put in just one read.me...)
+- 🌱 I’m currently learning Flutter! and Project Management
+- 💞️ I’m looking to collaborate on anything interesting, basically, specially those project oriented to change the World!
+- 📫 How to reach me corgomofilo23@gmail.com
